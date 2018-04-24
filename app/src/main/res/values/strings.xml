@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UdacityPractialQuizOne</string>
+    <string name="profile">Profile</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="write_about_your_self">Write about your self</string>
+    <string name="next">Next</string>
+    <string name="demo_user_name">Demo User Name</string>
+    <string name="demo_email">Demo Email</string>
+    
+    
+    <!--Shared Prefrance Keys-->
+    <string name="pref_user_name" translatable="false">User Name</string>
+    <string name="pref_user_email" translatable="false">User Email</string>
+    <string name="pref_user_pref" translatable="false">User About</string>
+</resources>
